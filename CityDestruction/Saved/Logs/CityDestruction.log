@@ -955,3 +955,74 @@ Recommended: 516.25
 [2022.11.05-22.34.12:803][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
 [2022.11.05-22.34.12:833][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
 [2022.11.05-22.34.12:864][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.11.05-22.38.41:670][847]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/MainGenerator.MainGenerator_C
+[2022.11.05-22.38.41:671][847]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/MainGenerator.MainGenerator_C
+[2022.11.05-22.38.41:673][847]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/MainGenerator.MainGenerator as actor: MainGenerator_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MainGenerator_C_0
+[2022.11.05-22.38.41:673][847]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/MainGenerator.MainGenerator as actor: MainGenerator_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MainGenerator_C_0
+[2022.11.05-22.38.42:351][904]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/MainGenerator.MainGenerator_C
+[2022.11.05-22.38.42:351][904]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/MainGenerator.MainGenerator_C
+[2022.11.05-22.38.42:354][904]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/MainGenerator.MainGenerator as actor: MainGenerator_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MainGenerator_C_UAID_D8BBC14D1FEED24601_2112646039
+[2022.11.05-22.38.42:354][904]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/MainGenerator.MainGenerator as actor: MainGenerator_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MainGenerator_C_UAID_D8BBC14D1FEED24601_2112646039
+[2022.11.05-22.39.36:291][745]Cmd: TRANSACTION UNDO
+[2022.11.05-22.39.36:291][745]LogEditorTransaction: Undo Move Elements
+[2022.11.05-22.39.36:762][754]Cmd: TRANSACTION UNDO
+[2022.11.05-22.39.36:762][754]LogEditorTransaction: Undo Move Elements
+[2022.11.05-22.39.37:011][771]Cmd: TRANSACTION UNDO
+[2022.11.05-22.39.37:011][771]LogEditorTransaction: Undo Clicking on Elements
+[2022.11.05-22.40.13:547][218]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.05-22.40.13:552][218]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.05-22.40.13:557][218]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.05-22.40.13:569][219]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.05-22.40.33:319][122]LogContentBrowser: Attempting asset rename: NewBlueprint -> PoC_Generator
+[2022.11.05-22.40.33:325][122]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.05-22.40.34:918][276]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/PoC_Generator.PoC_Generator
+[2022.11.05-22.40.34:918][276]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.05-22.40.35:393][276]LogViewport: Scene viewport resized to 1104x917, mode Windowed.
+[2022.11.05-22.40.53:153][352]BlueprintLog: New page: Compile PoC_Generator
+[2022.11.05-22.40.53:215][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.11.05-22.40.54:605][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.11.05-22.40.54:669][444]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6
+[2022.11.05-22.40.54:669][444]LogSavePackage: Moving '../../../../../../Users/natba/Desktop/City-Destructor/CityDestruction/Saved/NG2R9BPZVA7ZDN0Z4VSTG6721BB9D1404462D744858CAD026D7B2F.tmp' to '../../../../../../Users/natba/Desktop/City-Destructor/CityDestruction/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset'
+[2022.11.05-22.40.54:672][444]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/1R/1TLBP9NNSHKQK8JDO1VD9H
+[2022.11.05-22.40.54:672][444]LogSavePackage: Moving '../../../../../../Users/natba/Desktop/City-Destructor/CityDestruction/Saved/1TLBP9NNSHKQK8JDO1VD9HD767A5074C0E8AA0B89EA69C3FDDDFD4.tmp' to '../../../../../../Users/natba/Desktop/City-Destructor/CityDestruction/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/1R/1TLBP9NNSHKQK8JDO1VD9H.uasset'
+[2022.11.05-22.40.54:677][444]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/PoC_Generator
+[2022.11.05-22.40.54:677][444]LogSavePackage: Moving '../../../../../../Users/natba/Desktop/City-Destructor/CityDestruction/Saved/PoC_Generator7605CE8E4453CF598C0FDDACA1F43CBE.tmp' to '../../../../../../Users/natba/Desktop/City-Destructor/CityDestruction/Content/ThirdPerson/Blueprints/WFC_LevelGenerator/PoC_Generator.uasset'
+[2022.11.05-22.40.54:695][444]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.05-22.40.54:695][444]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+[2022.11.05-22.40.54:695][444]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/PoC_Generator.PoC_Generator
+[2022.11.05-22.40.54:695][444]LogContentValidation: Display: Validating MainGenerator_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MainGenerator_C_UAID_D8BBC14D1FEED24601_2112646039
+[2022.11.05-22.41.01:837][ 74]Cmd: DELETE
+[2022.11.05-22.41.01:837][ 74]Cmd: ACTOR DELETE
+[2022.11.05-22.41.01:839][ 74]LogEditorActor: Deleted Actor: MainGenerator_C
+[2022.11.05-22.41.01:889][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.11.05-22.41.01:890][ 74]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.11.05-22.41.05:669][438]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/PoC_Generator.PoC_Generator_C
+[2022.11.05-22.41.05:669][438]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/PoC_Generator.PoC_Generator_C
+[2022.11.05-22.41.05:670][438]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/PoC_Generator.PoC_Generator as actor: PoC_Generator_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PoC_Generator_C_0
+[2022.11.05-22.41.05:671][438]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/PoC_Generator.PoC_Generator as actor: PoC_Generator_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PoC_Generator_C_0
+[2022.11.05-22.41.06:462][513]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/PoC_Generator.PoC_Generator_C
+[2022.11.05-22.41.06:462][513]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/PoC_Generator.PoC_Generator_C
+[2022.11.05-22.41.06:465][513]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/PoC_Generator.PoC_Generator as actor: PoC_Generator_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PoC_Generator_C_UAID_D8BBC14D1FEED34601_1183015216
+[2022.11.05-22.41.06:466][513]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/PoC_Generator.PoC_Generator as actor: PoC_Generator_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PoC_Generator_C_UAID_D8BBC14D1FEED34601_1183015216
+[2022.11.05-22.42.07:317][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.11.05-22.42.07:322][520]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/FE/EV0YK7V79VBWX0ZVFARLJC_Auto1
+[2022.11.05-22.42.07:322][520]LogSavePackage: Moving '../../../../../../Users/natba/Desktop/City-Destructor/CityDestruction/Saved/EV0YK7V79VBWX0ZVFARLJC_Auto17FC332DE4B67E7F9723F43B034E55A28.tmp' to '../../../../../../Users/natba/Desktop/City-Destructor/CityDestruction/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/FE/EV0YK7V79VBWX0ZVFARLJC_Auto1.uasset'
+[2022.11.05-22.42.07:323][520]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.053
+[2022.11.05-22.42.07:323][520]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2022.11.05-22.42.28:329][263]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.05-22.42.28:329][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.05-22.42.45:500][871]Cmd: TRANSACTION UNDO
+[2022.11.05-22.42.45:500][871]LogEditorTransaction: Undo Move Elements
+[2022.11.05-22.43.27:283][772]Cmd: DELETE
+[2022.11.05-22.43.27:283][772]Cmd: ACTOR DELETE
+[2022.11.05-22.43.27:285][772]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.05-22.43.27:355][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.11.05-22.43.27:358][772]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2022.11.05-22.43.40:083][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.11.05-22.43.40:180][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.11.05-22.43.40:209][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.11.05-22.43.40:238][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.05-22.43.40:240][162]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/FE/EV0YK7V79VBWX0ZVFARLJC
+[2022.11.05-22.43.40:240][162]LogSavePackage: Moving '../../../../../../Users/natba/Desktop/City-Destructor/CityDestruction/Saved/EV0YK7V79VBWX0ZVFARLJC2F3B01054B7D47F95E75F0A0342965E2.tmp' to '../../../../../../Users/natba/Desktop/City-Destructor/CityDestruction/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/FE/EV0YK7V79VBWX0ZVFARLJC.uasset'
+[2022.11.05-22.43.40:264][162]AssetCheck: New page: Asset Save: PoC_Generator_C_UAID_D8BBC14D1FEED34601_1183015216
+[2022.11.05-22.43.40:264][162]LogContentValidation: Display: Validating PoC_Generator_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PoC_Generator_C_UAID_D8BBC14D1FEED34601_1183015216
