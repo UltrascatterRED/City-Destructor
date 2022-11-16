@@ -1,0 +1,15 @@
+Migrate:
+-Wall_3x3_
+-Wall_3x3_Corner_Left
+-Wall_3x3_Corner_Right
+-B18_Win_Wall_3x3_Set
+	-Tiles02_INST
+	-Bricks_Sloppy_INST_2
+	-Bricks_industial2_INST_2
+	-Glass_inst
+	-Win_Aluminum4
+	-Win_Aluminum2
+-B71_Win_Wall_3x3_Set
+-OfficeCeiling_INST4
+-Opaque_Glass_inst
+-Bathstone_Brick_INST1
