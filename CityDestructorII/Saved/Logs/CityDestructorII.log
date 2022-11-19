@@ -2731,3 +2731,17 @@ Recommended: 516.25
 [2022.11.19-23.38.32:259][343]AssetCheck: New page: Asset Save: WFC_Module1j
 [2022.11.19-23.38.32:259][343]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/WFC_Module1/WFC_Module1j.WFC_Module1j
 [2022.11.19-23.39.04:428][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.11.19-23.44.16:901][936]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.11.19-23.44.27:026][963]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.11.19-23.44.37:214][990]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.11.19-23.44.47:236][ 19]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.11.19-23.49.28:800][982]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/WFC_Module1/WFC_Module1f.WFC_Module1f
+[2022.11.19-23.49.28:800][982]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.19-23.49.30:827][107]LogViewport: Scene viewport resized to 2288x1855, mode Windowed.
+[2022.11.19-23.50.00:417][208]BlueprintLog: New page: Compile WFC_Module1f
+[2022.11.19-23.50.00:514][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.11.19-23.50.01:277][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.11.19-23.50.01:343][254]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/WFC_Module1/WFC_Module1f
+[2022.11.19-23.50.01:345][254]LogSavePackage: Moving 'D:/Nathaniel Barton/City-Destructor/CityDestructorII/Saved/WFC_Module1f493EE6F54A074435F26565BA35DE76F0.tmp' to 'D:/Nathaniel Barton/City-Destructor/CityDestructorII/Content/ThirdPerson/Blueprints/WFC_LevelGenerator/WFC_Module1/WFC_Module1f.uasset'
+[2022.11.19-23.50.01:356][254]AssetCheck: New page: Asset Save: WFC_Module1f
+[2022.11.19-23.50.01:356][254]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/WFC_LevelGenerator/WFC_Module1/WFC_Module1f.WFC_Module1f
