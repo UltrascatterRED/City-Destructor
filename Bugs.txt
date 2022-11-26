@@ -1,0 +1,9 @@
+
+Moderate
+==============================
+Module (Corner piece) - heavily resistant to breaking from strain fields *still breaks on collision, possible spawned invisible projectile
+
+
+Minor
+==============================
+Module 1c (Wall with window) - minor graphical anomaly on the window sill
