@@ -1,0 +1,21 @@
+Hello. My name is Jason Beal. I am a Technical Artist on our project, City Destructor. I am responsible for the Lightning VFX
+and the destructible elements of the environment. I used a ribbon with a custom material within the Niagara system to create the lightning bolt. I made 
+a user parameter to allow the end of the beam to be set through scripting. I used a 'Float from Curve' on both the ribbon width AND
+the beam to adjust the wild movement of the bolt. I wrote scripts for the player creature to fire line traces automatically. If these 
+line traces hit an object, it passes the impact point to the 
+Niagara system IN the 3rd person blueprint to set the variable used for the end of the beam. For the destructible environment, I used 
+Unreal's CHAOS physics system to create 3 fractured variations of each of the modules created by Nathan. In each geometry collection, 
+I applied the Uniform and Cluster fracturing in different ways to get a variety of debris. To break apart the debris, the damage thresholds
+of each collection needed to be balanced with the force. Too little and the whole piece will bounce around. Too much and it will fly to the moon.
+While excessive force was required to break collections consistently, they were always sensitive to collision contact. So, I was able to rein in
+the force by adding a collision in the blueprint with my field that was generating force. Optimization to allow the destructible pieces to be used consistently 
+in a target-rich environment was an interesting challenge. I created an array with each of the modules in it to compare them to any object 
+hit by one of the sphere traces. When a match was found, the index number was used to reference arrays containing each set of the geometry
+collections. A random integer is rolled to determine which variation to create in the module's place and then the module is destroyed. This 
+allowed a large number of static modules to make up the exterior AND the interior of each building while still allowing for a fully destructible
+environment. A sleep field included by default in the engine content was used to improve performance. Any piece of debris that entered the field
+would shut off its physics calculation and dissolve after an adjustable amount of seconds. Nathan included a scaled sleep field within the main 
+generator to cover the street regardless of dimensions. Since each geometry collection had its own blueprint, I was able to set a lifespan of 10 seconds.
+These tutorials helped inform my progress.
+All of these effects among other optimizations made by my colleagues allows the continual destruction of the environment without crippling the frame rate.
+And as an added bonus, here is some chain lightning!
